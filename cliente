@@ -10,13 +10,9 @@ CREATE TABLE clientes (
 
 
 INSERT INTO clientes (CODIGO, NOME, CPF, TEL, ENDERECO, RG, GMAIL) VALUES
-(1, 'João Silva', '123.456.789-00', '(11) 1234-5678', 'Rua das Flores, 123', '1234567', 'joao.silva@gmail.com'),
-(2, 'Maria Souza', '987.654.321-00', '(11) 9876-5432', 'Avenida Principal, 456', '9876543', 'maria.souza@gmail.com'),
-(3, 'Pedro Oliveira', '456.789.123-00', '(11) 5555-4444', 'Rua dos Passarinhos, 789', '4567891', 'pedro.oliveira@gmail.com'),
-(4, 'Ana Santos', '222.333.444-55', '(11) 3333-2222', 'Rua dos Girassóis, 789', '2223334', 'ana.santos@gmail.com'),
-(5, 'Carlos Fernandes', '555.444.333-22', '(11) 7777-8888', 'Avenida das Palmeiras, 456', '5554443', 'carlos.fernandes@gmail.com'),
-(6, 'Juliana Lima', '666.777.888-11', '(11) 9999-0000', 'Travessa das Margaridas, 789', '6667778', 'juliana.lima@gmail.com'),
-(7, 'Fernando Costa', '999.888.777-00', '(11) 1111-2222', 'Alameda dos Ipês, 123', '9998887', 'fernando.costa@gmail.com'),
-(8, 'Aline Pereira', '111.222.333-44', '(11) 4444-5555', 'Praça das Acácias, 456', '1112223', 'aline.pereira@gmail.com'),
-(9, 'Roberto Santos', '888.777.666-55', '(11) 2222-3333', 'Rua das Violetas, 789', '8887776', 'roberto.santos@gmail.com'),
-(10, 'Mariana Oliveira', '333.222.111-44', '(11) 6666-7777', 'Avenida das Tulipas, 123', '3332221', 'mariana.oliveira@gmail.com');
+(1, 'Maria Silva', '123.456.789-10', '(11) 98765-4321', 'Rua das Flores, 123', '1234567', 'maria.silva@gmail.com'),
+(2, 'João Santos', '987.654.321-10', '(11) 99876-5432', 'Avenida dos Anjos, 456', '7654321', 'joao.santos@hotmail.com'),
+(3, 'Ana Oliveira', '456.789.123-10', '(11) 98765-6789', 'Travessa das Palmeiras, 789', '9876543', 'ana.oliveira@yahoo.com'),
+(4, 'Pedro Almeida', '654.321.987-10', '(11) 99999-9999', 'Praça das Estrelas, 1010', '5432198', 'pedro.almeida@gmail.com'),
+(5, 'Julia Costa', '321.654.987-10', '(11) 98765-5432', 'Rua dos Sonhos, 222', '9876543', 'julia.costa@gmail.com');
+
